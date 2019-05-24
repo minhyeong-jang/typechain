@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learn Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/minhyeong-jang/typechain.git",
+  "author": "Noah <savedream75@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc" 
+  }
+}
